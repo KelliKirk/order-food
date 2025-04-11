@@ -6,7 +6,7 @@ export const useCartContext = () => useContext(CartContext);
 const initialState = {
     items: [],
     modalVisible: false,
-    modalVisible: null,
+    modalContent: null,
 };
 
 const cartReducer = (state, action) => {

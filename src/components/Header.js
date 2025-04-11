@@ -8,7 +8,7 @@ const Header = () => {
     const totalQuantity = cart.items.reduce((total, item) => total + item.quantity, 0)
 
     const emptyCartModal = () => {
-        dispatch({type: MODAL_SET_CONTENT, payload: 
+        dispatch({type: "MODAL_SET_CONTENT", payload: 
             <div className = 'cart'>
                 <h2>Your cart is empty.</h2>
                 <div className='modal-actions'>
@@ -61,7 +61,9 @@ const Header = () => {
                 <h1>React Food Order App</h1>
             </div>
             <nav>
-            <Button textOnly={true}>Cart({totalQuantity}) </Button> 
+            <Button textOnly={true} onClick={() => totalQuantity === 0 ? emptyCartModal() : fullCartModal()}>
+                Cart({totalQuantity})
+            </Button>
             </nav>
         </header>
     )
