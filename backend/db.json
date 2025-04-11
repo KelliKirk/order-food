@@ -230,6 +230,184 @@
         "email": "customer@example.com",
         "address": "123 Main St"
       }
+    },
+    {
+      "id": "a9b8",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Mac & Cheese",
+          "price": 8.99,
+          "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+          "image": "images/mac-and-cheese.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 8.99,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
+    },
+    {
+      "id": "7fdd",
+      "items": [
+        {
+          "id": "m2",
+          "name": "Margherita Pizza",
+          "price": 12.99,
+          "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+          "image": "images/margherita-pizza.jpg",
+          "quantity": 3
+        }
+      ],
+      "totalAmount": 38.97,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
+    },
+    {
+      "id": "6e34",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Mac & Cheese",
+          "price": 8.99,
+          "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+          "image": "images/mac-and-cheese.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 8.99,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
+    },
+    {
+      "id": "5c31",
+      "items": [
+        {
+          "id": "m2",
+          "name": "Margherita Pizza",
+          "price": 12.99,
+          "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+          "image": "images/margherita-pizza.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 12.99,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
+    },
+    {
+      "id": "b458",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Mac & Cheese",
+          "price": 8.99,
+          "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+          "image": "images/mac-and-cheese.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m2",
+          "name": "Margherita Pizza",
+          "price": 12.99,
+          "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+          "image": "images/margherita-pizza.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m6",
+          "name": "Grilled Chicken Sandwich",
+          "price": 10.99,
+          "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+          "image": "images/grilled-chicken-sandwich.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m12",
+          "name": "Pancake Stack",
+          "price": 8.99,
+          "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+          "image": "images/pancake-stack.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m15",
+          "name": "Chocolate Brownie",
+          "price": 5.99,
+          "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+          "image": "images/chocolate-brownie.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m17",
+          "name": "Mushroom Risotto",
+          "price": 13.99,
+          "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+          "image": "images/mushroom-risotto.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 61.940000000000005,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
+    },
+    {
+      "id": "2043",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Mac & Cheese",
+          "price": 8.99,
+          "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+          "image": "images/mac-and-cheese.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m2",
+          "name": "Margherita Pizza",
+          "price": 12.99,
+          "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+          "image": "images/margherita-pizza.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m3",
+          "name": "Caesar Salad",
+          "price": 7.99,
+          "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+          "image": "images/caesar-salad.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "m5",
+          "name": "Veggie Burger",
+          "price": 9.99,
+          "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+          "image": "images/veggie-burger.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 39.96,
+      "customer": {
+        "name": "Customer",
+        "email": "customer@example.com",
+        "address": "123 Main St"
+      }
     }
   ]
 }
